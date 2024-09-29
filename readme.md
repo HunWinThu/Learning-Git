@@ -1,5 +1,6 @@
 # Learn about git and github
 ggwp
-'''python
+
+```python
 print("hello world!)
-'''
+```
